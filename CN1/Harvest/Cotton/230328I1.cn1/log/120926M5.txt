@@ -1,0 +1,16 @@
+09/26/2012  12:43:24 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/26/2012  12:43:24 04 Crop Flow Detected But Not Logged CP-312 set active on 12:43 pm Sep 26, 2012
+09/26/2012  12:43:30 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:43 pm Sep 26, 2012
+09/26/2012  12:43:31 04 Crop Flow Detected But Not Logged CP-312 set active on 12:43 pm Sep 26, 2012
+09/26/2012  12:43:44 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:43 pm Sep 26, 2012
+09/26/2012  12:52:30 04 Crop Flow Detected But Not Logged CP-312 set active on 12:52 pm Sep 26, 2012
+09/26/2012  12:52:32 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:52 pm Sep 26, 2012
+09/26/2012  12:52:33 04 Crop Flow Detected But Not Logged CP-312 set active on 12:52 pm Sep 26, 2012
+09/26/2012  12:52:34 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:52 pm Sep 26, 2012
+09/26/2012  12:54:31 00 
+09/26/2012  12:54:31 00 ----- Software Summary -----
+09/26/2012  12:54:31 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/26/2012  12:54:31 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/26/2012  12:54:31 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/26/2012  12:54:31 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/26/2012  12:54:31 00 >>->>->>->> LOG Closed <<-<<-<<-<<

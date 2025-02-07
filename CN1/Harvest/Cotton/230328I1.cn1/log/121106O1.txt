@@ -1,0 +1,5 @@
+11/06/2012  14:23:54 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+11/06/2012  14:23:54 04 XCM Communication Lost CP-315 set active on  2:23 pm Nov 06, 2012
+11/06/2012  14:23:54 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+11/06/2012  14:23:55 04 SWException: Exception Number = 4
+11/06/2012  14:23:55 04 SWException: Exception Description: Illegal instruction 

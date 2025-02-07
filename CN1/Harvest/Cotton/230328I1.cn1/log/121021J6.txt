@@ -1,0 +1,10 @@
+10/21/2012  10:40:29 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/21/2012  10:40:29 04 XCM Communication Lost CP-315 set active on 10:40 am Oct 21, 2012
+10/21/2012  10:40:29 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+10/21/2012  10:40:29 00 
+10/21/2012  10:40:30 00 ----- Software Summary -----
+10/21/2012  10:40:30 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/21/2012  10:40:30 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/21/2012  10:40:30 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/21/2012  10:40:30 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/21/2012  10:40:30 00 >>->>->>->> LOG Closed <<-<<-<<-<<

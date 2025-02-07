@@ -1,0 +1,77 @@
+09/29/2012  09:46:36 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/29/2012  09:46:36 04 XCM Configuration Failed CP-316 set active on  9:46 am Sep 29, 2012
+09/29/2012  09:46:36 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:38 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:40 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:42 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:44 04 XCM Not Detected CP-314 set active on  9:46 am Sep 29, 2012
+09/29/2012  09:46:44 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:44 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:45 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:46 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:46 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:48 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:49 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:49 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:50 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:51 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:51 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:52 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:53 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:53 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/29/2012  09:46:54 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:55 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:56 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:57 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:58 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:46:59 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:00 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:01 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:02 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:03 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:04 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:05 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:06 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:07 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:08 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:09 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:10 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:11 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:12 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:13 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:14 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:15 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:16 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:17 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:18 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:19 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:20 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:21 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:22 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:23 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:24 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:25 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:26 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:27 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:28 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:29 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:30 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:31 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:32 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:33 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:34 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:36 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:37 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:38 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:39 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:40 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:41 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/29/2012  09:47:42 04 XCM Not Detected CP-314 cleared on  9:46 am Sep 29, 2012
+09/29/2012  10:07:00 00 
+09/29/2012  10:07:00 00 ----- Software Summary -----
+09/29/2012  10:07:00 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/29/2012  10:07:00 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/29/2012  10:07:00 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/29/2012  10:07:00 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/29/2012  10:07:00 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+09/29/2012  10:07:01 00 

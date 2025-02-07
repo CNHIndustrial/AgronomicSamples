@@ -1,0 +1,95 @@
+11/10/2012  12:09:17 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+11/10/2012  12:09:17 04 CNvm::ImportData()349  Record type not supported. record_type:231
+11/10/2012  12:09:17 04 CNvmImportSummaryTask::OnCycle()134  Record import failed. record_type:231 status:-1
+11/10/2012  12:10:41 04 Crop Flow Detected But Not Logged CP-312 set active on 12:10 pm Nov 10, 2012
+11/10/2012  12:10:50 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:10 pm Nov 10, 2012
+11/10/2012  12:10:51 04 Crop Flow Detected But Not Logged CP-312 set active on 12:10 pm Nov 10, 2012
+11/10/2012  12:11:04 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:10 pm Nov 10, 2012
+11/10/2012  12:11:05 04 Crop Flow Detected But Not Logged CP-312 set active on 12:11 pm Nov 10, 2012
+11/10/2012  12:11:33 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:11 pm Nov 10, 2012
+11/10/2012  13:01:58 04 Crop Flow Detected But Not Logged CP-312 set active on  1:01 pm Nov 10, 2012
+11/10/2012  13:02:51 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:01 pm Nov 10, 2012
+11/10/2012  13:02:52 04 Crop Flow Detected But Not Logged CP-312 set active on  1:02 pm Nov 10, 2012
+11/10/2012  13:03:00 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:02 pm Nov 10, 2012
+11/10/2012  13:03:01 04 Crop Flow Detected But Not Logged CP-312 set active on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:05 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:06 04 Crop Flow Detected But Not Logged CP-312 set active on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:09 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:10 04 Crop Flow Detected But Not Logged CP-312 set active on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:11 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:12 04 Crop Flow Detected But Not Logged CP-312 set active on  1:03 pm Nov 10, 2012
+11/10/2012  13:03:17 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:03 pm Nov 10, 2012
+11/10/2012  13:11:22 04 Crop Flow Detected But Not Logged CP-312 set active on  1:11 pm Nov 10, 2012
+11/10/2012  13:16:50 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:11 pm Nov 10, 2012
+11/10/2012  13:17:43 04 Crop Flow Detected But Not Logged CP-312 set active on  1:17 pm Nov 10, 2012
+11/10/2012  13:21:42 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:17 pm Nov 10, 2012
+11/10/2012  13:22:33 04 Crop Flow Detected But Not Logged CP-312 set active on  1:22 pm Nov 10, 2012
+11/10/2012  13:24:24 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:22 pm Nov 10, 2012
+11/10/2012  13:44:28 04 Crop Flow Detected But Not Logged CP-312 set active on  1:44 pm Nov 10, 2012
+11/10/2012  13:44:38 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:44 pm Nov 10, 2012
+11/10/2012  13:44:39 04 Crop Flow Detected But Not Logged CP-312 set active on  1:44 pm Nov 10, 2012
+11/10/2012  13:47:08 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:44 pm Nov 10, 2012
+11/10/2012  13:52:18 04 Packing Error CP-104 set active on  1:52 pm Nov 10, 2012
+11/10/2012  13:52:18 04 Packing Error CP-104 cleared on  1:52 pm Nov 10, 2012
+11/10/2012  14:15:18 04 Crop Flow Detected But Not Logged CP-312 set active on  2:15 pm Nov 10, 2012
+11/10/2012  14:17:03 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:15 pm Nov 10, 2012
+11/10/2012  14:17:04 04 Crop Flow Detected But Not Logged CP-312 set active on  2:17 pm Nov 10, 2012
+11/10/2012  14:17:07 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:17 pm Nov 10, 2012
+11/10/2012  14:17:08 04 Crop Flow Detected But Not Logged CP-312 set active on  2:17 pm Nov 10, 2012
+11/10/2012  14:17:12 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:17 pm Nov 10, 2012
+11/10/2012  14:20:24 04 Packing Error CP-104 set active on  2:20 pm Nov 10, 2012
+11/10/2012  14:20:26 04 Packing Error CP-104 cleared on  2:20 pm Nov 10, 2012
+11/10/2012  14:36:50 04 Crop Flow Detected But Not Logged CP-312 set active on  2:36 pm Nov 10, 2012
+11/10/2012  14:37:22 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:36 pm Nov 10, 2012
+11/10/2012  14:37:23 04 Crop Flow Detected But Not Logged CP-312 set active on  2:37 pm Nov 10, 2012
+11/10/2012  14:37:24 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:37 pm Nov 10, 2012
+11/10/2012  14:37:25 04 Crop Flow Detected But Not Logged CP-312 set active on  2:37 pm Nov 10, 2012
+11/10/2012  14:37:34 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:37 pm Nov 10, 2012
+11/10/2012  15:01:22 04 Crop Flow Detected But Not Logged CP-312 set active on  3:01 pm Nov 10, 2012
+11/10/2012  15:03:17 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:01 pm Nov 10, 2012
+11/10/2012  15:03:18 04 Crop Flow Detected But Not Logged CP-312 set active on  3:03 pm Nov 10, 2012
+11/10/2012  15:03:20 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:03 pm Nov 10, 2012
+11/10/2012  15:03:21 04 Crop Flow Detected But Not Logged CP-312 set active on  3:03 pm Nov 10, 2012
+11/10/2012  15:03:28 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:03 pm Nov 10, 2012
+11/10/2012  15:21:05 04 Crop Flow Detected But Not Logged CP-312 set active on  3:21 pm Nov 10, 2012
+11/10/2012  15:26:13 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:21 pm Nov 10, 2012
+11/10/2012  15:29:57 04 Crop Flow Detected But Not Logged CP-312 set active on  3:29 pm Nov 10, 2012
+11/10/2012  15:32:55 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:29 pm Nov 10, 2012
+11/10/2012  16:08:45 04 Crop Flow Detected But Not Logged CP-312 set active on  4:08 pm Nov 10, 2012
+11/10/2012  16:09:07 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:08 pm Nov 10, 2012
+11/10/2012  16:09:08 04 Crop Flow Detected But Not Logged CP-312 set active on  4:09 pm Nov 10, 2012
+11/10/2012  16:11:06 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:09 pm Nov 10, 2012
+11/10/2012  16:11:07 04 Crop Flow Detected But Not Logged CP-312 set active on  4:11 pm Nov 10, 2012
+11/10/2012  16:11:18 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:11 pm Nov 10, 2012
+11/10/2012  16:11:19 04 Crop Flow Detected But Not Logged CP-312 set active on  4:11 pm Nov 10, 2012
+11/10/2012  16:14:11 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:11 pm Nov 10, 2012
+11/10/2012  16:36:14 04 Crop Flow Detected But Not Logged CP-312 set active on  4:36 pm Nov 10, 2012
+11/10/2012  16:37:48 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:36 pm Nov 10, 2012
+11/10/2012  16:37:49 04 Crop Flow Detected But Not Logged CP-312 set active on  4:37 pm Nov 10, 2012
+11/10/2012  16:37:50 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:37 pm Nov 10, 2012
+11/10/2012  16:37:51 04 Crop Flow Detected But Not Logged CP-312 set active on  4:37 pm Nov 10, 2012
+11/10/2012  16:37:54 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:37 pm Nov 10, 2012
+11/10/2012  17:10:44 04 Crop Flow Detected But Not Logged CP-312 set active on  5:10 pm Nov 10, 2012
+11/10/2012  17:11:59 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:10 pm Nov 10, 2012
+11/10/2012  17:12:00 04 Crop Flow Detected But Not Logged CP-312 set active on  5:12 pm Nov 10, 2012
+11/10/2012  17:12:12 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:12 pm Nov 10, 2012
+11/10/2012  17:12:13 04 Crop Flow Detected But Not Logged CP-312 set active on  5:12 pm Nov 10, 2012
+11/10/2012  17:12:17 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:12 pm Nov 10, 2012
+11/10/2012  17:12:18 04 Crop Flow Detected But Not Logged CP-312 set active on  5:12 pm Nov 10, 2012
+11/10/2012  17:12:20 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:12 pm Nov 10, 2012
+11/10/2012  17:23:16 04 Crop Flow Detected But Not Logged CP-312 set active on  5:23 pm Nov 10, 2012
+11/10/2012  17:24:50 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:23 pm Nov 10, 2012
+11/10/2012  17:45:18 04 Crop Flow Detected But Not Logged CP-312 set active on  5:45 pm Nov 10, 2012
+11/10/2012  17:45:21 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:45 pm Nov 10, 2012
+11/10/2012  17:45:22 04 Crop Flow Detected But Not Logged CP-312 set active on  5:45 pm Nov 10, 2012
+11/10/2012  17:45:30 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:45 pm Nov 10, 2012
+11/10/2012  17:45:31 04 Crop Flow Detected But Not Logged CP-312 set active on  5:45 pm Nov 10, 2012
+11/10/2012  17:45:35 04 Crop Flow Detected But Not Logged CP-312 cleared on  5:45 pm Nov 10, 2012
+11/10/2012  17:55:41 00 
+11/10/2012  17:55:41 00 ----- Software Summary -----
+11/10/2012  17:55:41 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+11/10/2012  17:55:41 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+11/10/2012  17:55:41 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+11/10/2012  17:55:41 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+11/10/2012  17:55:41 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+11/10/2012  17:55:42 00 

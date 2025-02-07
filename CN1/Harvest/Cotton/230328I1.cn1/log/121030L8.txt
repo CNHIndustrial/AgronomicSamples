@@ -1,0 +1,10 @@
+10/30/2012  11:51:50 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/30/2012  11:51:50 04 System Error CP-214 set active on 11:51 am Oct 30, 2012
+10/30/2012  11:51:52 04 System Error CP-214 cleared on 11:51 am Oct 30, 2012
+10/30/2012  12:35:32 00 
+10/30/2012  12:35:32 00 ----- Software Summary -----
+10/30/2012  12:35:32 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/30/2012  12:35:32 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/30/2012  12:35:32 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/30/2012  12:35:32 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/30/2012  12:35:32 00 >>->>->>->> LOG Closed <<-<<-<<-<<

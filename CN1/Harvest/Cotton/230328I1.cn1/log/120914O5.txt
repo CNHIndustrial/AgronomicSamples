@@ -1,0 +1,18 @@
+09/14/2012  14:30:23 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/14/2012  14:30:23 04 ../code/base/Can/CanSpeedModule.cpp[472]: CAN Node Not Detected
+09/14/2012  14:30:23 04 Speed Module Not Detected CP-300 set active on  2:30 pm Sep 14, 2012
+09/14/2012  14:30:23 04 A-Post Not Detected CP-318 set active on  2:30 pm Sep 14, 2012
+09/14/2012  14:30:23 00 
+09/14/2012  14:30:24 00 ----- Software Summary -----
+09/14/2012  14:30:24 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/14/2012  14:30:24 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/14/2012  14:30:24 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/14/2012  14:30:24 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/14/2012  14:30:24 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+09/14/2012  14:33:24 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/14/2012  14:33:24 04 Crop Flow Detected But Not Logged CP-312 set active on  2:33 pm Sep 14, 2012
+09/14/2012  14:34:03 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:33 pm Sep 14, 2012
+09/14/2012  14:37:15 04 Crop Flow Detected But Not Logged CP-312 set active on  2:37 pm Sep 14, 2012
+09/14/2012  14:37:32 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:37 pm Sep 14, 2012
+09/14/2012  14:37:33 04 Crop Flow Detected But Not Logged CP-312 set active on  2:37 pm Sep 14, 2012
+09/14/2012  14:37:37 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:37 pm Sep 14, 2012

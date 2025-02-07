@@ -1,0 +1,28 @@
+09/16/2012  12:31:55 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/16/2012  12:31:55 04 Crop Flow Detected But Not Logged CP-312 set active on 12:31 pm Sep 16, 2012
+09/16/2012  12:32:00 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:31 pm Sep 16, 2012
+09/16/2012  12:50:54 04 Crop Flow Detected But Not Logged CP-312 set active on 12:50 pm Sep 16, 2012
+09/16/2012  12:50:58 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:50 pm Sep 16, 2012
+09/16/2012  12:56:27 04 Crop Flow Detected But Not Logged CP-312 set active on 12:56 pm Sep 16, 2012
+09/16/2012  12:56:44 04 Crop Flow Detected But Not Logged CP-312 cleared on 12:56 pm Sep 16, 2012
+09/16/2012  12:58:16 04 System Error CP-213 set active on 12:58 pm Sep 16, 2012
+09/16/2012  12:58:18 04 System Error CP-212 set active on 12:58 pm Sep 16, 2012
+09/16/2012  12:58:21 04 System Error CP-213 cleared on 12:58 pm Sep 16, 2012
+09/16/2012  13:00:20 04 System Error CP-212 cleared on 12:58 pm Sep 16, 2012
+09/16/2012  13:11:42 04 Crop Flow Detected But Not Logged CP-312 set active on  1:11 pm Sep 16, 2012
+09/16/2012  13:12:17 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:11 pm Sep 16, 2012
+09/16/2012  13:35:52 04 Crop Flow Detected But Not Logged CP-312 set active on  1:35 pm Sep 16, 2012
+09/16/2012  13:37:42 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:35 pm Sep 16, 2012
+09/16/2012  13:54:32 04 Crop Flow Detected But Not Logged CP-312 set active on  1:54 pm Sep 16, 2012
+09/16/2012  13:54:47 04 Crop Flow Detected But Not Logged CP-312 cleared on  1:54 pm Sep 16, 2012
+09/16/2012  14:03:04 04 Crop Flow Detected But Not Logged CP-312 set active on  2:03 pm Sep 16, 2012
+09/16/2012  14:03:25 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:03 pm Sep 16, 2012
+09/16/2012  14:12:38 04 Crop Flow Detected But Not Logged CP-312 set active on  2:12 pm Sep 16, 2012
+09/16/2012  14:12:57 04 Crop Flow Detected But Not Logged CP-312 cleared on  2:12 pm Sep 16, 2012
+09/16/2012  14:16:50 00 
+09/16/2012  14:16:50 00 ----- Software Summary -----
+09/16/2012  14:16:50 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/16/2012  14:16:50 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/16/2012  14:16:50 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/16/2012  14:16:50 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/16/2012  14:16:50 00 >>->>->>->> LOG Closed <<-<<-<<-<<

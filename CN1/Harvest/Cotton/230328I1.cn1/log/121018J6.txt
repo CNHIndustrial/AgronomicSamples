@@ -1,0 +1,14 @@
+10/18/2012  09:39:08 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/18/2012  09:39:08 04 XCM Configuration Failed CP-316 set active on  9:39 am Oct 18, 2012
+10/18/2012  09:39:08 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/18/2012  09:39:10 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/18/2012  09:39:12 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/18/2012  09:39:13 04 XCM Configuration Failed CP-316 cleared on  9:39 am Oct 18, 2012
+10/18/2012  09:39:47 00 
+10/18/2012  09:39:47 00 ----- Software Summary -----
+10/18/2012  09:39:47 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/18/2012  09:39:48 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/18/2012  09:39:48 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/18/2012  09:39:48 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/18/2012  09:39:48 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+10/18/2012  09:39:48 00 

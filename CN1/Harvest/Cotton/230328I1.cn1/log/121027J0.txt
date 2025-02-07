@@ -1,0 +1,11 @@
+10/27/2012  09:01:14 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/27/2012  09:01:14 04 System Error CP-212 set active on  9:01 am Oct 27, 2012
+10/27/2012  09:01:14 04 System Error CP-212 cleared on  9:01 am Oct 27, 2012
+10/27/2012  09:02:21 00 
+10/27/2012  09:02:21 00 ----- Software Summary -----
+10/27/2012  09:02:21 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/27/2012  09:02:21 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/27/2012  09:02:21 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/27/2012  09:02:21 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/27/2012  09:02:21 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+10/27/2012  09:02:22 00 

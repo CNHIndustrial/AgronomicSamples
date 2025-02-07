@@ -1,0 +1,9 @@
+10/30/2012  11:07:02 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/30/2012  11:07:02 04 Flow Sensor 4 Fault CP-309 set active on 11:07 am Oct 30, 2012
+10/30/2012  11:07:06 00 
+10/30/2012  11:07:06 00 ----- Software Summary -----
+10/30/2012  11:07:06 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/30/2012  11:07:06 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/30/2012  11:07:06 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/30/2012  11:07:06 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/30/2012  11:07:06 00 >>->>->>->> LOG Closed <<-<<-<<-<<

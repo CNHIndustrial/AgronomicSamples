@@ -1,0 +1,13 @@
+09/29/2012  15:23:04 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/29/2012  15:23:04 04 Speed Module Calibration Failed CP-313 set active on  3:23 pm Sep 29, 2012
+09/29/2012  15:23:04 04 ../code/base/Can/CanSpeedModule.cpp[573]: Too many timeouts [10]
+09/29/2012  15:23:05 04 ../code/base/Can/CanSpeedModule.cpp[472]: CAN Node Not Detected
+09/29/2012  15:23:05 04 Speed Module Not Detected CP-300 set active on  3:23 pm Sep 29, 2012
+09/29/2012  15:23:05 04 A-Post Not Detected CP-318 set active on  3:23 pm Sep 29, 2012
+09/29/2012  15:23:06 00 
+09/29/2012  15:23:06 00 ----- Software Summary -----
+09/29/2012  15:23:06 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/29/2012  15:23:06 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/29/2012  15:23:06 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/29/2012  15:23:06 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/29/2012  15:23:06 00 >>->>->>->> LOG Closed <<-<<-<<-<<

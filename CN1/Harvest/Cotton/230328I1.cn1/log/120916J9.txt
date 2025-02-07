@@ -1,0 +1,71 @@
+09/16/2012  09:59:58 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/16/2012  09:59:58 04 XCM Configuration Failed CP-316 set active on  9:59 am Sep 16, 2012
+09/16/2012  09:59:58 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:00 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:02 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:04 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:06 04 XCM Not Detected CP-314 set active on 10:00 am Sep 16, 2012
+09/16/2012  10:00:06 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:06 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:07 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:08 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:08 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:09 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:10 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:10 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:11 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:12 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:12 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:13 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:14 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:14 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/16/2012  10:00:15 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:16 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:17 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:18 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:19 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:20 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:21 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:22 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:23 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:24 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:25 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:26 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:27 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:28 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:29 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:30 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:31 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:32 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:33 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:34 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:35 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:36 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:37 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:38 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:39 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:40 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:41 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:42 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:43 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:44 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:45 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:47 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:48 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:49 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:50 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:51 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:52 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:53 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:54 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:55 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:56 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/16/2012  10:00:57 04 XCM Not Detected CP-314 cleared on 10:00 am Sep 16, 2012
+09/16/2012  10:13:22 00 
+09/16/2012  10:13:22 00 ----- Software Summary -----
+09/16/2012  10:13:22 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/16/2012  10:13:22 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/16/2012  10:13:22 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/16/2012  10:13:22 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/16/2012  10:13:22 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+09/16/2012  10:13:23 00 

@@ -1,0 +1,14 @@
+10/24/2012  10:42:04 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/24/2012  10:42:04 04 Flow Sensor 1 Fault CP-309 set active on 10:42 am Oct 24, 2012
+10/24/2012  10:42:04 04 Flow Sensor 2 Fault CP-309 set active on 10:42 am Oct 24, 2012
+10/24/2012  10:42:04 04 Flow Sensor 3 Fault CP-309 set active on 10:42 am Oct 24, 2012
+10/24/2012  10:42:04 04 Flow Sensor 4 Fault CP-309 set active on 10:42 am Oct 24, 2012
+10/24/2012  10:42:07 04 XCM Communication Lost CP-315 set active on 10:42 am Oct 24, 2012
+10/24/2012  10:42:07 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+10/24/2012  10:42:08 00 
+10/24/2012  10:42:08 00 ----- Software Summary -----
+10/24/2012  10:42:08 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/24/2012  10:42:08 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/24/2012  10:42:08 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/24/2012  10:42:08 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/24/2012  10:42:08 00 >>->>->>->> LOG Closed <<-<<-<<-<<

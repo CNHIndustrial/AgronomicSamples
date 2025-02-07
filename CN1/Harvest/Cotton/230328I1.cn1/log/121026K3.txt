@@ -1,0 +1,53 @@
+10/26/2012  10:22:04 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/26/2012  10:22:04 04 XCM Configuration Failed CP-316 set active on 10:22 am Oct 26, 2012
+10/26/2012  10:22:04 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:06 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:08 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:10 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:12 04 XCM Not Detected CP-314 set active on 10:22 am Oct 26, 2012
+10/26/2012  10:22:12 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:12 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:13 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:14 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:14 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:15 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:16 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:16 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:17 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:18 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:18 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:19 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:20 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:20 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+10/26/2012  10:22:21 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:22 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:23 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:24 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:25 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:26 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:27 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:28 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:29 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:30 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:31 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:32 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:33 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:34 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:35 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:36 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:37 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:38 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:39 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:40 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:41 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:42 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:43 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+10/26/2012  10:22:44 04 XCM Not Detected CP-314 cleared on 10:22 am Oct 26, 2012
+10/26/2012  10:24:38 00 
+10/26/2012  10:24:38 00 ----- Software Summary -----
+10/26/2012  10:24:38 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+10/26/2012  10:24:38 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+10/26/2012  10:24:38 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+10/26/2012  10:24:38 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+10/26/2012  10:24:38 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+10/26/2012  10:24:39 00 

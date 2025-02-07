@@ -1,0 +1,29 @@
+09/22/2012  10:42:53 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/22/2012  10:42:53 04 XCM Configuration Failed CP-316 set active on 10:42 am Sep 22, 2012
+09/22/2012  10:42:53 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:42:55 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:42:57 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:42:59 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:43:01 04 XCM Not Detected CP-314 set active on 10:43 am Sep 22, 2012
+09/22/2012  10:43:01 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:01 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:43:02 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:03 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:03 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:43:04 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:05 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:05 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:43:06 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:07 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:07 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+09/22/2012  10:43:08 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+09/22/2012  10:43:08 04 XCM Configuration Failed CP-316 cleared on 10:42 am Sep 22, 2012
+09/22/2012  10:43:09 04 XCM Not Detected CP-314 cleared on 10:43 am Sep 22, 2012
+09/22/2012  10:51:38 00 
+09/22/2012  10:51:38 00 ----- Software Summary -----
+09/22/2012  10:51:38 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/22/2012  10:51:38 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/22/2012  10:51:38 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/22/2012  10:51:38 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/22/2012  10:51:38 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+09/22/2012  10:51:39 00 

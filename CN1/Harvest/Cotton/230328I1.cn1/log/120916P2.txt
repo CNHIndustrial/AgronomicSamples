@@ -1,0 +1,29 @@
+09/16/2012  15:27:54 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/16/2012  15:27:54 04 Crop Flow Detected But Not Logged CP-312 set active on  3:27 pm Sep 16, 2012
+09/16/2012  15:27:56 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:27 pm Sep 16, 2012
+09/16/2012  15:33:07 04 Crop Flow Detected But Not Logged CP-312 set active on  3:33 pm Sep 16, 2012
+09/16/2012  15:33:44 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:33 pm Sep 16, 2012
+09/16/2012  15:37:18 04 Crop Flow Detected But Not Logged CP-312 set active on  3:37 pm Sep 16, 2012
+09/16/2012  15:37:23 04 Crop Flow Detected But Not Logged CP-312 cleared on  3:37 pm Sep 16, 2012
+09/16/2012  16:04:32 04 Crop Flow Detected But Not Logged CP-312 set active on  4:04 pm Sep 16, 2012
+09/16/2012  16:06:08 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:04 pm Sep 16, 2012
+09/16/2012  16:07:06 04 Crop Flow Detected But Not Logged CP-312 set active on  4:07 pm Sep 16, 2012
+09/16/2012  16:07:39 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:07 pm Sep 16, 2012
+09/16/2012  16:07:40 04 Crop Flow Detected But Not Logged CP-312 set active on  4:07 pm Sep 16, 2012
+09/16/2012  16:07:44 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:07 pm Sep 16, 2012
+09/16/2012  16:07:45 04 Crop Flow Detected But Not Logged CP-312 set active on  4:07 pm Sep 16, 2012
+09/16/2012  16:07:56 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:07 pm Sep 16, 2012
+09/16/2012  16:14:43 04 XCM Communication Lost CP-315 set active on  4:14 pm Sep 16, 2012
+09/16/2012  16:14:43 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+09/16/2012  16:14:44 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+09/16/2012  16:14:45 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+09/16/2012  16:14:46 04 XCM Communication Lost CP-315 cleared on  4:14 pm Sep 16, 2012
+09/16/2012  16:22:48 04 Crop Flow Detected But Not Logged CP-312 set active on  4:22 pm Sep 16, 2012
+09/16/2012  16:24:14 04 Crop Flow Detected But Not Logged CP-312 cleared on  4:22 pm Sep 16, 2012
+09/16/2012  17:02:07 00 
+09/16/2012  17:02:07 00 ----- Software Summary -----
+09/16/2012  17:02:07 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+09/16/2012  17:02:07 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+09/16/2012  17:02:07 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+09/16/2012  17:02:07 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+09/16/2012  17:02:07 00 >>->>->>->> LOG Closed <<-<<-<<-<<

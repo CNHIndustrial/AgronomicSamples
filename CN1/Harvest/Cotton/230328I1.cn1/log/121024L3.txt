@@ -1,0 +1,5 @@
+10/24/2012  11:33:56 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/24/2012  11:33:56 04 SWException: Exception Number = 4
+10/24/2012  11:33:56 04 SWException: Exception Description: Illegal instruction 
+10/24/2012  11:33:56 04 SWException: Task: [Power Down Detect Task] State: Cycle State
+10/24/2012  11:33:56 04 SWException: Screen: [Splash Screen] State: Refresh State

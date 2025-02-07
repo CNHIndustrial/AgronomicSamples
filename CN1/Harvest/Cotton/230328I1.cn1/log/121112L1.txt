@@ -1,0 +1,16 @@
+11/12/2012  11:08:19 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+11/12/2012  11:08:19 04 CNvm::ImportData()349  Record type not supported. record_type:231
+11/12/2012  11:08:19 04 CNvmImportSummaryTask::OnCycle()134  Record import failed. record_type:231 status:-1
+11/12/2012  11:08:23 04 XCM Configuration Failed CP-316 set active on 11:08 am Nov 12, 2012
+11/12/2012  11:08:23 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/12/2012  11:08:25 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/12/2012  11:08:27 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/12/2012  11:08:28 04 XCM Configuration Failed CP-316 cleared on 11:08 am Nov 12, 2012
+11/12/2012  11:12:50 00 
+11/12/2012  11:12:50 00 ----- Software Summary -----
+11/12/2012  11:12:50 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+11/12/2012  11:12:50 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+11/12/2012  11:12:50 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+11/12/2012  11:12:50 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+11/12/2012  11:12:50 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+11/12/2012  11:12:51 00 

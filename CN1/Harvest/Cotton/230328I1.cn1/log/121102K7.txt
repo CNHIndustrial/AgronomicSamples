@@ -1,0 +1,23 @@
+11/02/2012  10:43:57 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+11/02/2012  10:43:57 04 XCM Configuration Failed CP-316 set active on 10:43 am Nov 02, 2012
+11/02/2012  10:43:57 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:43:59 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:44:01 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:44:03 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:44:05 04 XCM Not Detected CP-314 set active on 10:44 am Nov 02, 2012
+11/02/2012  10:44:05 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+11/02/2012  10:44:05 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:44:06 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+11/02/2012  10:44:07 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+11/02/2012  10:44:07 04 ../code/base/Can/CanXCMMsgTxConfig.h[140]: CAN maximum timeouts [3]
+11/02/2012  10:44:08 04 ../code/base/Can/CanXCM.cpp[195]: CAN Node not detected
+11/02/2012  10:44:08 04 XCM Configuration Failed CP-316 cleared on 10:43 am Nov 02, 2012
+11/02/2012  10:44:09 04 XCM Not Detected CP-314 cleared on 10:44 am Nov 02, 2012
+11/02/2012  11:01:02 00 
+11/02/2012  11:01:02 00 ----- Software Summary -----
+11/02/2012  11:01:02 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+11/02/2012  11:01:02 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+11/02/2012  11:01:02 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+11/02/2012  11:01:02 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+11/02/2012  11:01:02 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+11/02/2012  11:01:03 00 

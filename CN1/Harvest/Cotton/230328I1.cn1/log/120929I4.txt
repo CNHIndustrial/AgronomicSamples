@@ -1,0 +1,9 @@
+09/29/2012  09:35:25 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+09/29/2012  09:35:25 04 XCM Communication Lost CP-315 set active on  9:35 am Sep 29, 2012
+09/29/2012  09:35:25 04 ../code/base/Can/CanXCM.cpp[206]: CAN Node offline
+09/29/2012  09:35:25 04 SWException: Exception Number = 4
+09/29/2012  09:35:25 04 SWException: Exception Description: Illegal instruction 
+09/29/2012  09:35:25 04 SWException: Task: [Power Down Detect Task] State: Cycle State
+09/29/2012  09:35:25 04 SWException: Screen: [Main Screen] State: Refresh State
+09/29/2012  09:35:25 04 SWException: Window: [Indicator Window] State: Refresh State
+09/29/2012  09:35:25 04 SWException  Widget: [indicator] State: Refresh State

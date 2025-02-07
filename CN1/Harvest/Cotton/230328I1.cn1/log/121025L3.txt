@@ -1,0 +1,4 @@
+10/25/2012  11:22:20 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+10/25/2012  11:22:20 04 Speed Module Calibration Failed CP-313 set active on 11:22 am Oct 25, 2012
+10/25/2012  11:22:20 04 ../code/base/Can/CanSpeedModule.cpp[573]: Too many timeouts [10]
+10/25/2012  11:22:20 04 SWException: Exception Number = 4

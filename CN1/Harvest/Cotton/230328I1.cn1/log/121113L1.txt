@@ -1,0 +1,11 @@
+11/13/2012  11:07:04 00 >>->>->>->> LOG Opened <<-<<-<<-<<
+11/13/2012  11:07:04 04 CNvm::ImportData()349  Record type not supported. record_type:231
+11/13/2012  11:07:04 04 CNvmImportSummaryTask::OnCycle()134  Record import failed. record_type:231 status:-1
+11/13/2012  11:21:22 00 
+11/13/2012  11:21:23 00 ----- Software Summary -----
+11/13/2012  11:21:23 00 Framework.dll, SWID: 1294, Version 27.2.0.0
+11/13/2012  11:21:23 00 Precision Farming.dll, SWID: 1295, Version 27.2.0.0
+11/13/2012  11:21:23 00 Display Defaults.dll, SWID: 1328, Version 27.2.0.0
+11/13/2012  11:21:23 00 Cotton Picker.exe, SWID: 1310, Version 27.1.0.0
+11/13/2012  11:21:23 00 >>->>->>->> LOG Closed <<-<<-<<-<<
+11/13/2012  11:21:23 00 
